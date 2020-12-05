@@ -1,4 +1,4 @@
-package com.fukkatsumi.tacocloud.controller;
+package com.fukkatsumi.tacocloud.utils;
 
 import com.fukkatsumi.tacocloud.entity.Ingredient;
 import com.fukkatsumi.tacocloud.repository.IngredientRepository;
