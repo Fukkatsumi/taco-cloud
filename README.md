@@ -9,3 +9,4 @@ The current version of the project contains the code represented in the followin
   - Chapter 2: Developing web applications  
   - Chapter-3: Working with data  
   - Chapter-4: Securing spring  
+  - Chapter-5: Working with configuration properties  
